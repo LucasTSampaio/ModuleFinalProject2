@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ModuleFinalProject2</string>
+
+    <string-array name="sexo_array">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
